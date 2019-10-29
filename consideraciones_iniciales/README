@@ -9,6 +9,8 @@ ROBOTS.TXT
 En primer lugar comprobamos el robots.txt del sitio web para ver si especifica alguna restricción a la hora de realizar el scraping del sitio 
 web. No se especifica ningún sitemap y de hecho parece que este sitio web no dispone del mismo. 
 
+El fichero robots.txt que se puede ver en la captura incluida en este fichero ("filmaffinity_robots_txt.JPG"). Se puede ver que no hay ningún
+crawler que esté restringido de rastrear el sitio web. Sin embargo, sí que hay ciertos elementos que está bloqeuados como los archivos swf.
 
 
 
