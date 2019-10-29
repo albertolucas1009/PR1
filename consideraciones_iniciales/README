@@ -22,7 +22,9 @@ tan enorme, puede llevar mucho tiempo descargar la totalidad del sitio.
 
 TECNOLOGÍA UTILIZADA POR EL SITIO WEB
 
-Para comprobar el tipo de tecnología que se ha utilizado para diseñar el sitio with, se ha utilizado la librería de Python Builtwith.
+Para comprobar el tipo de tecnología que se ha utilizado para diseñar el sitio with, se ha utilizado la librería de Python Builtwith. En la
+imagen adjunta en este fichero ('builtwith_filmaffinity.JPG') se puede apreciar que Film Affinity utiliza librarías muy comnunes de JavaScript.
+Esto significa que su contenido estará integrado en el código HTML y por tanto, podremos extraerlo mediante el proceso de web scraping.
 
 DUEÑO DEL SITIO WEB
 
