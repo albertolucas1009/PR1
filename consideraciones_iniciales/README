@@ -26,8 +26,10 @@ Para comprobar el tipo de tecnología que se ha utilizado para diseñar el sitio
 imagen adjunta en este fichero ('builtwith_filmaffinity.JPG') se puede apreciar que Film Affinity utiliza librarías muy comnunes de JavaScript.
 Esto significa que su contenido estará integrado en el código HTML y por tanto, podremos extraerlo mediante el proceso de web scraping.
 
+
 DUEÑO DEL SITIO WEB
 
-
-
+De la misma manera, puede resultar de interés comprobar quién es el dueño del sitio web. Para ello se ha utilizado el paquete "whois" de
+Pyhton. Como se puede observar en la captura de este archivo ("filmaffinity_website_owners.JPG"), el nombre de la compañía propietaria está 
+oculto. No obstante, a primera vista no parece tratarse de una organización que vaya a bloquear el uso de web crawlers en el sitio web
 
