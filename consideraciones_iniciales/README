@@ -1,10 +1,10 @@
-# CONSIDERACIONES INICIALES
+CONSIDERACIONES INICIALES
 
 Antes de llevar a cabo el web scraping de esta página, se han llevado a cabo una serie de acciones para obtener un entendimiento inicial de 
 la estructura del sitio web, así como de su tamaño. Así pues, antes de iniciar el scraping, se han exainado los siguientes aspectos:
 
 
-# ROBOTS.TXT
+ROBOTS.TXT
 
 En primer lugar comprobamos el robots.txt del sitio web para ver si especifica alguna restricción a la hora de realizar el scraping del sitio 
 web. No se especifica ningún sitemap y de hecho parece que este sitio web no dispone del mismo. 
@@ -14,7 +14,7 @@ crawler que esté restringido de rastrear el sitio web. Sin embargo, sí que hay
 
 
 
-# TAMAÑO DE LA PÁGINA WEB
+TAMAÑO DE LA PÁGINA WEB
 
 Para estimar el tamaño de la página web hacemos uso de la instrucción site y hacemos una búsqueda en Google. Se puede ver en la imagen que
 el sitio web dispone de más de 4 millones y medio de páginas. De esta forma, para la información que queremos obtener de FilmAffinity será
@@ -22,14 +22,14 @@ más eficiente realizar el scraping directamente de la página web que nos inter
 tan enorme, puede llevar mucho tiempo descargar la totalidad del sitio. 
 
 
-# TECNOLOGÍA UTILIZADA POR EL SITIO WEB
+TECNOLOGÍA UTILIZADA POR EL SITIO WEB
 
 Para comprobar el tipo de tecnología que se ha utilizado para diseñar el sitio with, se ha utilizado la librería de Python Builtwith. En la
 imagen adjunta en este fichero ('builtwith_filmaffinity.JPG') se puede apreciar que Film Affinity utiliza librarías muy comnunes de JavaScript.
 Esto significa que su contenido estará integrado en el código HTML y por tanto, podremos extraerlo mediante el proceso de web scraping.
 
 
-# DUEÑO DEL SITIO WEB
+DUEÑO DEL SITIO WEB
 
 De la misma manera, puede resultar de interés comprobar quién es el dueño del sitio web. Para ello se ha utilizado el paquete "whois" de
 Pyhton. Como se puede observar en la captura de este archivo ("filmaffinity_website_owners.JPG"), el nombre de la compañía propietaria está 
