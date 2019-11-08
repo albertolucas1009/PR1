@@ -1,27 +1,20 @@
-Names,Directors,Cast,Genre,Rating
-Joker ,Todd Phillips ,"Joaquin Phoenix, Robert De Niro, Zazie Beetz, ... ",Thriller,8.4
-The Shining ,Stanley Kubrick ,"Jack Nicholson, Shelley Duvall, Danny Lloyd, ... ",Horror,8.2
-Singin' in the Rain ,"Stanley Donen, Gene Kelly ","Gene Kelly, Donald O´Connor, Debbie Reynolds, ... ",Musical,8.1
-Hoop Dreams ,Steve James ,Documentary ,Documentary,7.7
-Monos ,Alejandro Landes ,"Julianne Nicholson, Moises Arias, Jorge Román, ... ",Drama,7.3
-Official Secrets ,Gavin Hood ,"Keira Knightley, Matt Smith, Ralph Fiennes, ... ",Thriller,6.9
-Downton Abbey ,Michael Engler ,"Hugh Bonneville, Michelle Dockery, Maggie Smith, ... ",Drama,6.9
-The Last Black Man in San Francisco ,Joe Talbot ,"Jimmie Fails, Jonathan Majors, Rob Morgan, ... ",Drama,6.7
-By the Grace of God ,François Ozon ,"Melvil Poupaud, Denis Menochet, Swann Arlaud, ... ",Drama,6.6
-Blinded by the Light ,Gurinder Chadha ,"Viveik Kalra, Hayley Atwell, Rob Brydon, ... ",Drama,6.4
-Abominable ,"Jill Culton, Todd Wilderman ",Animation ,Animation,6.3
-What You Gonna Do When The World's On Fire? ,Roberto Minervini ,"Documentary, Judy Hill, Dorothy Hill, ... ",Documentary,6.3
-Ready or Not ,"Tyler Gillett, Matt Bettinelli-Olpin ","Samara Weaving, Andie MacDowell, Mark O'Brien, ... ",Thriller,6.2
-Zombieland: Double Tap ,Ruben Fleischer ,"Jesse Eisenberg, Woody Harrelson, Emma Stone, ... ",Comedy,6.2
-The Souvenir ,Joanna Hogg ,"Tom Burke, Honor Swinton Byrne, Tilda Swinton, ... ",Drama,6.1
-Ad Astra ,James Gray ,"Brad Pitt, Tommy Lee Jones, Donald Sutherland, ... ",Sci-Fi,6.1
-Non-Fiction ,Olivier Assayas ,"Juliette Binoche, Guillaume Canet, Olivia Ross, ... ",Drama,6.0
-Terminator: Dark Fate ,Tim Miller ,"Mackenzie Davis, Linda Hamilton, Arnold Schwarzenegger, ... ",Sci-Fi,6.0
-Hustlers ,Lorene Scafaria ,"Jennifer Lopez, Constance Wu, Lili Reinhart, ... ",Drama,5.8
-Angel Has Fallen ,Ric Roman Waugh ,"Gerard Butler, Morgan Freeman, Piper Perabo, ... ",Action,5.7
-Maleficent: Mistress of Evil ,Joachim Rønning ,"Angelina Jolie, Michelle Pfeiffer, Elle Fanning, ... ",Fantasy,5.7
-The Addams Family ,"Conrad Vernon, Greg Tiernan ",Animation ,Animation,5.6
-The Beach Bum ,Harmony Korine ,"Matthew McConaughey, Isla Fisher, Zac Efron, ... ",Comedy,5.6
-Fast & Furious: Hobbs & Shaw ,David Leitch ,"Dwayne Johnson, Jason Statham, Idris Elba, ... ",Action,5.6
-Dora and the Lost City of Gold ,James Bobin ,"Isabela Merced, Eugenio Derbez, Eva Longoria, ... ",Adventure,5.3
-Gemini Man ,Ang Lee ,"Will Smith, Clive Owen, Mary Elizabeth Winstead, ... ",Sci-Fi,4.8
+Names,Directors,Cast,Genre,Rating,Enlace
+Joker ,Todd Phillips ,"Joaquin Phoenix, Robert De Niro, Zazie Beetz, ... ",Thriller,8.3,https://www.filmaffinity.com/uk/film520214.html
+Monos ,Alejandro Landes ,"Julianne Nicholson, Moises Arias, Jorge Román, ... ",Drama,7.2,https://www.filmaffinity.com/uk/film232725.html
+Sorry We Missed You ,Ken Loach ,"Kris Hitchen, Debbie Honeywood, Rhys Stone, ... ",Drama,7.1,https://www.filmaffinity.com/uk/film747709.html
+Downton Abbey ,Michael Engler ,"Hugh Bonneville, Michelle Dockery, Maggie Smith, ... ",Drama,6.8,https://www.filmaffinity.com/uk/film950665.html
+Official Secrets ,Gavin Hood ,"Keira Knightley, Matt Smith, Ralph Fiennes, ... ",Thriller,6.8,https://www.filmaffinity.com/uk/film625997.html
+A Shaun the Sheep Movie: Farmageddon ,"Will Becher, Richard Phelan ",Animation ,Animation,6.7,https://www.filmaffinity.com/uk/film135118.html
+The Last Black Man in San Francisco ,Joe Talbot ,"Jimmie Fails, Jonathan Majors, Rob Morgan, ... ",Drama,6.7,https://www.filmaffinity.com/uk/film809036.html
+By the Grace of God ,François Ozon ,"Melvil Poupaud, Denis Menochet, Swann Arlaud, ... ",Drama,6.6,https://www.filmaffinity.com/uk/film183835.html
+Doctor Sleep ,Mike Flanagan ,"Ewan McGregor, Rebecca Ferguson, Zahn McClarnon, ... ",Horror,6.6,https://www.filmaffinity.com/uk/film140751.html
+Making Waves: The Art of Cinematic Sound ,Midge Costin ,"Documentary, Erik Aadahl, Ioan Allen, ... ",Documentary,6.5,https://www.filmaffinity.com/uk/film962176.html
+Blinded by the Light ,Gurinder Chadha ,"Viveik Kalra, Hayley Atwell, Rob Brydon, ... ",Drama,6.3,https://www.filmaffinity.com/uk/film452292.html
+Abominable ,"Jill Culton, Todd Wilderman ",Animation ,Animation,6.3,https://www.filmaffinity.com/uk/film304239.html
+Zombieland: Double Tap ,Ruben Fleischer ,"Jesse Eisenberg, Woody Harrelson, Emma Stone, ... ",Comedy,6.1,https://www.filmaffinity.com/uk/film494203.html
+The Souvenir ,Joanna Hogg ,"Tom Burke, Honor Swinton Byrne, Tilda Swinton, ... ",Drama,6.0,https://www.filmaffinity.com/uk/film413250.html
+Maleficent: Mistress of Evil ,Joachim Rønning ,"Angelina Jolie, Michelle Pfeiffer, Elle Fanning, ... ",Fantasy,5.7,https://www.filmaffinity.com/uk/film393030.html
+Terminator: Dark Fate ,Tim Miller ,"Linda Hamilton, Mackenzie Davis, Natalia Reyes, ... ",Sci-Fi,5.7,https://www.filmaffinity.com/uk/film977502.html
+The Addams Family ,"Conrad Vernon, Greg Tiernan ",Animation ,Animation,5.5,https://www.filmaffinity.com/uk/film531157.html
+Dora and the Lost City of Gold ,James Bobin ,"Isabela Merced, Eugenio Derbez, Eva Longoria, ... ",Adventure,5.2,https://www.filmaffinity.com/uk/film253106.html
+Gemini Man ,Ang Lee ,"Will Smith, Clive Owen, Mary Elizabeth Winstead, ... ",Sci-Fi,4.8,https://www.filmaffinity.com/uk/film212888.html
