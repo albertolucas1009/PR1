@@ -21,5 +21,7 @@ CÓDIGO FUENTE
  RECURSOS
  
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+
 Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
+
 Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
