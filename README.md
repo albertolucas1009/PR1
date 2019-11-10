@@ -15,7 +15,12 @@ Esta práctica ha sido realizada de forma individual por Alberto Lucas Navío
 
 # CÓDIGO FUENTE
 
- El código fuente se encuentra en el fichero "webscraping_whatsoncinema.py"
+ El código fuente se encuentra en la carpeta "source_code". Los ficheros del código fuente son:
+ 
+ * src/scraper.ipynb: contiene la implementación de la clase MoviesToday(). Ésta contiene las funciones que generan un fichero csv con la información de las películas en cartelera. También la función que descarga las imágenes de la página web. En este fichero hay tambiém ejemplos de esta clase ejecutándose.
+ 
+ * src/Movies_search.ipynb: contiene la implementación de la clase MoviesSearch(). Ésta lleva a cabo una búsqueda en Film Affinity a partir de un término de búsqueda proporcionado por el usuario y genera un fichero csv que contiene información acerca de estos resultados. Se incluyen en el fichero ejemplos de ejecuciones de este scraper.
+ 
  
  
  # RECURSOS
